@@ -1,4 +1,4 @@
 # WDA_212
 
 
-Respository für das Projekt von hernn SSeitzs , Erpacic, gollor und KUlas
+Respository für das Projekt von hernn Seitzs , Erpacic, gollor und Klas
